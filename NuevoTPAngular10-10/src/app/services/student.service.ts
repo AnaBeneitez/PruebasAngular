@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class StudentService {
 
-  private url = 'https://7498-181-231-122-56.ngrok-free.app/student'
+  private url = 'https://b7b9-181-231-122-56.ngrok-free.app/student'
 
   constructor(private http: HttpClient) { }
 
